@@ -5,5 +5,6 @@ The CreditCrawler app was created to help users search for the lowest interest r
 
 
 <p align="center">
- <img src="C:\Users\calni\OneDrive\Pictures\Capturas de pantalla\CreditCrawlerAppGui.png" width=70% height=70%>
+ <img src="https://user-images.githubusercontent.com/116107042/219502909-0c945489-70d4-4555-9707-919c6050cbfd.png" width=70% height=70%>
 </p>
+
